@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azril Praya Prasetyi</h1>
+<h1 align="center">Hi 👋, I'm Azril Praya Prasetyo</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [BankSampah](https://github.com/ajil23/banksampah)
