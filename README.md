@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azril Praya Prasetyo</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [PT. Traviora Global Wisata](https://github.com/ajil23/backend-fastboat)
+- 🔭 I’m currently working on [PT. Traviora Global Wisata](https://github.com/ajil23/fastboat-backend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajil23](https://github.com/ajil23)
 
